@@ -8,15 +8,19 @@ which of us ever undertakes laborious physical exercise, except to obtain some a
 But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, 
 or one who avoids a pain that produces no resultant pleasure?"
 
-some new text for pulling)
+some new text for pulling
 
 wow
 wow
 
 ;)
 Hello new day!!!
+<<<<<<< HEAD
 
 
 which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? 
 But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, 
 or one who avoids a pain that produces no resultant pleasure?"
+=======
+For git gui.
+>>>>>>> 93d3fd985434cf4247cd17fdf92fdff3a0c91a51
