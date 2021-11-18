@@ -32,4 +32,8 @@ feature new brunch
 
 brunch commit
 
+
 some tect for master
+
+for conflict feature
+
